@@ -1,0 +1,4 @@
+Index,Strategy Annual Return,Buy&Hold Annual Return,Excess Return,Sharpe Ratio,Max Drawdown,Total Trades,Win Rate
+Dow Jones,6.44%,8.21%,-1.77%,0.52,-31.20%,83,58.54%
+NASDAQ,9.38%,11.53%,-2.15%,0.60,-58.61%,87,65.12%
+S&P 500,6.42%,9.36%,-2.95%,0.51,-32.32%,87,65.12%
